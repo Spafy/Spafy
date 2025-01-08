@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently using Node, React, Next && Python with AI.
+- 🤖 Founder [Hala AI](http://yahala.dev)
 - 💬 Ask me about JavaScript, TypeScript React, Express, SQL/No SQL, AI.
 - 📫 How to reach me: contact@peter-shoukry.com
 
